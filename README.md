@@ -1,5 +1,7 @@
 # CKY-parsing
 
+This project was completed for the course Natural Language Processing in Columbia University.
+
 Project goals: 
 - implement the CKY (Cocke–Younger–Kasami) algorithm for CFG (Context Free Grammar) and PCFG (Probabilistic CFG) parsing.
 - retrieve parse trees from a parse chart to practice working with tree data structures
